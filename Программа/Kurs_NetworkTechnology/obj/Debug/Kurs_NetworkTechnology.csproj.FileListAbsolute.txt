@@ -1,0 +1,65 @@
+D:\Учеба\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\bin\Debug\Kurs_NetworkTechnology.exe.config
+D:\Учеба\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\obj\Debug\Kurs_NetworkTechnology.csprojResolveAssemblyReference.cache
+D:\Учеба\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\obj\Debug\MainWindow.g.cs
+D:\Учеба\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\obj\Debug\App.g.cs
+D:\Учеба\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\obj\Debug\Kurs_NetworkTechnology_MarkupCompile.cache
+D:\Учеба\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\obj\Debug\MainWindow.baml
+D:\Учеба\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\obj\Debug\Kurs_NetworkTechnology.g.resources
+D:\Учеба\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\obj\Debug\Kurs_NetworkTechnology.Properties.Resources.resources
+D:\Учеба\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\obj\Debug\Kurs_NetworkTechnology.csproj.GenerateResource.Cache
+D:\Учеба\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\bin\Debug\Kurs_NetworkTechnology.exe
+D:\Учеба\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\bin\Debug\Kurs_NetworkTechnology.pdb
+D:\Учеба\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\obj\Debug\Kurs_NetworkTechnology.exe
+D:\Учеба\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\obj\Debug\Kurs_NetworkTechnology.pdb
+C:\Users\Misha\Desktop\111111\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\bin\Debug\Kurs_NetworkTechnology.exe.config
+C:\Users\Misha\Desktop\111111\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\obj\Debug\Kurs_NetworkTechnology.exe
+C:\Users\Misha\Desktop\111111\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\obj\Debug\Kurs_NetworkTechnology.pdb
+C:\Users\Misha\Desktop\111111\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\bin\Debug\Kurs_NetworkTechnology.exe
+C:\Users\Misha\Desktop\111111\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\bin\Debug\Kurs_NetworkTechnology.pdb
+C:\Users\Misha\Desktop\111111\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\obj\Debug\Kurs_NetworkTechnology.csprojResolveAssemblyReference.cache
+C:\Users\Misha\Desktop\111111\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\obj\Debug\MainWindow.baml
+C:\Users\Misha\Desktop\111111\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\obj\Debug\MainWindow.g.cs
+C:\Users\Misha\Desktop\111111\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\obj\Debug\App.g.cs
+C:\Users\Misha\Desktop\111111\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\obj\Debug\Kurs_NetworkTechnology_MarkupCompile.cache
+C:\Users\Misha\Desktop\111111\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\obj\Debug\Kurs_NetworkTechnology.g.resources
+C:\Users\Misha\Desktop\111111\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\obj\Debug\Kurs_NetworkTechnology.Properties.Resources.resources
+C:\Users\Misha\Desktop\111111\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\obj\Debug\Kurs_NetworkTechnology.csproj.GenerateResource.Cache
+C:\Users\Misha\Desktop\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\bin\Debug\Kurs_NetworkTechnology.exe.config
+C:\Users\Misha\Desktop\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\obj\Debug\Kurs_NetworkTechnology.exe
+C:\Users\Misha\Desktop\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\obj\Debug\Kurs_NetworkTechnology.pdb
+C:\Users\Misha\Desktop\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\bin\Debug\Kurs_NetworkTechnology.exe
+C:\Users\Misha\Desktop\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\bin\Debug\Kurs_NetworkTechnology.pdb
+C:\Users\Misha\Desktop\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\obj\Debug\MainWindow.baml
+C:\Users\Misha\Desktop\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\obj\Debug\MainWindow.g.cs
+C:\Users\Misha\Desktop\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\obj\Debug\App.g.cs
+C:\Users\Misha\Desktop\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\obj\Debug\Kurs_NetworkTechnology_MarkupCompile.cache
+C:\Users\Misha\Desktop\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\obj\Debug\Kurs_NetworkTechnology.g.resources
+C:\Users\Misha\Desktop\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\obj\Debug\Kurs_NetworkTechnology.Properties.Resources.resources
+C:\Users\Misha\Desktop\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\obj\Debug\Kurs_NetworkTechnology.csproj.GenerateResource.Cache
+C:\Users\Misha\Desktop\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\obj\Debug\Kurs_NetworkTechnology.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\bin\Debug\Kurs_NetworkTechnology.exe.config
+C:\Users\Сергей\Desktop\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\obj\Debug\Kurs_NetworkTechnology.exe
+C:\Users\Сергей\Desktop\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\obj\Debug\Kurs_NetworkTechnology.pdb
+C:\Users\Сергей\Desktop\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\bin\Debug\Kurs_NetworkTechnology.exe
+C:\Users\Сергей\Desktop\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\bin\Debug\Kurs_NetworkTechnology.pdb
+C:\Users\Сергей\Desktop\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\obj\Debug\Kurs_NetworkTechnology.csprojResolveAssemblyReference.cache
+C:\Users\Сергей\Desktop\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\obj\Debug\MainWindow.baml
+C:\Users\Сергей\Desktop\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\obj\Debug\MainWindow.g.cs
+C:\Users\Сергей\Desktop\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\obj\Debug\App.g.cs
+C:\Users\Сергей\Desktop\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\obj\Debug\Kurs_NetworkTechnology_MarkupCompile.cache
+C:\Users\Сергей\Desktop\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\obj\Debug\Kurs_NetworkTechnology.g.resources
+C:\Users\Сергей\Desktop\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\obj\Debug\Kurs_NetworkTechnology.Properties.Resources.resources
+C:\Users\Сергей\Desktop\Курсовая\Программа\Kurs_NetworkTechnology\Kurs_NetworkTechnology\obj\Debug\Kurs_NetworkTechnology.csproj.GenerateResource.Cache
+C:\Users\krasilnikov\Desktop\kurs\Курсовая работа Красильников, Яйлоян, Рянский\Kurs_NetworkTechnology\bin\Debug\Kurs_NetworkTechnology.exe.config
+C:\Users\krasilnikov\Desktop\kurs\Курсовая работа Красильников, Яйлоян, Рянский\Kurs_NetworkTechnology\obj\Debug\Kurs_NetworkTechnology.exe
+C:\Users\krasilnikov\Desktop\kurs\Курсовая работа Красильников, Яйлоян, Рянский\Kurs_NetworkTechnology\obj\Debug\Kurs_NetworkTechnology.pdb
+C:\Users\krasilnikov\Desktop\kurs\Курсовая работа Красильников, Яйлоян, Рянский\Kurs_NetworkTechnology\bin\Debug\Kurs_NetworkTechnology.exe
+C:\Users\krasilnikov\Desktop\kurs\Курсовая работа Красильников, Яйлоян, Рянский\Kurs_NetworkTechnology\bin\Debug\Kurs_NetworkTechnology.pdb
+C:\Users\krasilnikov\Desktop\kurs\Курсовая работа Красильников, Яйлоян, Рянский\Kurs_NetworkTechnology\obj\Debug\Kurs_NetworkTechnology.csprojResolveAssemblyReference.cache
+C:\Users\krasilnikov\Desktop\kurs\Курсовая работа Красильников, Яйлоян, Рянский\Kurs_NetworkTechnology\obj\Debug\MainWindow.baml
+C:\Users\krasilnikov\Desktop\kurs\Курсовая работа Красильников, Яйлоян, Рянский\Kurs_NetworkTechnology\obj\Debug\MainWindow.g.cs
+C:\Users\krasilnikov\Desktop\kurs\Курсовая работа Красильников, Яйлоян, Рянский\Kurs_NetworkTechnology\obj\Debug\App.g.cs
+C:\Users\krasilnikov\Desktop\kurs\Курсовая работа Красильников, Яйлоян, Рянский\Kurs_NetworkTechnology\obj\Debug\Kurs_NetworkTechnology_MarkupCompile.cache
+C:\Users\krasilnikov\Desktop\kurs\Курсовая работа Красильников, Яйлоян, Рянский\Kurs_NetworkTechnology\obj\Debug\Kurs_NetworkTechnology.g.resources
+C:\Users\krasilnikov\Desktop\kurs\Курсовая работа Красильников, Яйлоян, Рянский\Kurs_NetworkTechnology\obj\Debug\Kurs_NetworkTechnology.Properties.Resources.resources
+C:\Users\krasilnikov\Desktop\kurs\Курсовая работа Красильников, Яйлоян, Рянский\Kurs_NetworkTechnology\obj\Debug\Kurs_NetworkTechnology.csproj.GenerateResource.Cache
